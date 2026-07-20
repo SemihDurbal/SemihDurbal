@@ -15,8 +15,7 @@ I turn real-world operational problems into practical software — from desktop 
 
 ## About Me
 
-- 🎓 B.Sc. in Computer Engineering from Çanakkale Onsekiz Mart University, Class of 2026 — **3.50/4.00 GPA, 2nd in my department and 3rd in my faculty**.
-- 🥈 Earned a **2nd-place award in the TÜBİTAK 2242 University Students Research Project Competitions**.
+- 🎓 Çanakkale Onsekiz Mart University — Faculty of Engineering.
 - 💼 I design, build, deploy, and maintain end-to-end solutions for businesses, with a focus on automation, usability, and reliable data flows.
 - 🧠 My applied AI experience spans NLP, classical machine learning, ensemble methods, CNNs, transfer learning, and large-scale data preparation.
 - 🔌 I enjoy connecting software with the physical world through Raspberry Pi, IoT, local-network systems, and Edge AI.
