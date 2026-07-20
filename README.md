@@ -10,6 +10,7 @@ I turn real-world operational problems into practical software — from desktop 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-0F766E?style=flat-square&logo=gmail&logoColor=white)](mailto:semihduurbal@gmail.com)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Profile-FFD21E?style=flat-square&logo=huggingface&logoColor=111111)](https://huggingface.co/semihdurbal)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0005--5856--5914-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-5856-5914)
+[![Kaggle](https://img.shields.io/badge/Kaggle-semihdurbal-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/semihdurbal)
 
 </div>
 
