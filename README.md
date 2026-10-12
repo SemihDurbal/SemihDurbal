@@ -79,7 +79,6 @@ I'm interested in building useful products at the intersection of **software eng
 - **Email:** [semihduurbal@gmail.com](mailto:semihduurbal@gmail.com)
 - **LinkedIn:** [linkedin.com/in/semihdurbal](https://www.linkedin.com/in/semihdurbal/)
 - **Hugging Face:** [huggingface.co/semihdurbal](https://huggingface.co/semihdurbal)
-- **Live project:** [hanedansirince.com](https://hanedansirince.com)
 
 <div align="center">
 
