@@ -34,14 +34,6 @@ An end-to-end restaurant operations platform currently in active development:
 
 ## Selected Work
 
-### [Hanedan Şirince Restaurant](https://hanedansirince.com)
-
-A production website and digital menu platform built for a restaurant in Şirince:
-
-- Responsive website and QR menu with complete content support in **six languages**.
-- Admin-manageable menu and image infrastructure, reservation/contact flows, technical SEO, and mobile UX improvements.
-- Deployment and DNS operations across Cloudflare Pages and Netlify.
-
 ### Large-Scale Troll & Bot Detection · TÜBİTAK 3005
 
 - Prepared approximately **7.3 million social-media records** for modeling.
@@ -53,13 +45,6 @@ A production website and digital menu platform built for a restaurant in Şirinc
 - Developed a CNN-based model to classify infant needs from acoustic signals.
 - Adapted the model for low-resource execution and integrated it into a real-time Raspberry Pi IoT prototype.
 - Worked across model development, prototyping, and system integration.
-
-### Public Repositories
-
-- [Restaurant Automation](https://github.com/SemihDurbal/Restoran-Otomasyonu) — an early C# and MySQL restaurant-management project.
-- [Algorithm Analysis](https://github.com/SemihDurbal/Algoritma-Analizi) — an academic algorithm-analysis study presented as a web project.
-- [Java Projects](https://github.com/SemihDurbal/Java-Projects) — a collection of projects created while developing my Java skills.
-- [Crane Game](https://github.com/SemihDurbal/VincOyunu-Java-Projects-) — a Java game with database-backed player scores.
 
 ## Tech Stack
 
