@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Semih Durbal 👋
+# Hi, I'm Semih Durbal
 
 ### Computer Engineer · C#/.NET & Java · AI/ML · Web & Automation
 
